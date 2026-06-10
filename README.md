@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
@@ -74,7 +80,11 @@
   <img src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" height="60" alt="sentry logo" />
 </div>
 
-<hr style="border:0; height:1px; background:linear-gradient(to right, transparent, #3498db, transparent);">
+###
+
+<div align="center">
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Follow%20me%20on:&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
@@ -110,6 +120,12 @@
   <img src="https://raw.githubusercontent.com/phenox27/phenox27/activity-graph-output/activity-graph.svg" height="150" alt="activity-graph graph" />
 </div>
 <br>
+
+###
+
+<div>
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
