@@ -11,73 +11,73 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="50" alt="supabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="pytest logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="60" alt="vercel logo" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="50" alt="vercel logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="60" alt="netlify logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white" height="60" alt="rag logo" />
+  <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white" height="50" alt="rag logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white" height="60" alt="nlp logo" />
+  <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white" height="50" alt="nlp logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" height="60" alt="llm logo" />
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" height="50" alt="llm logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="60" alt="matplotlib logo" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="50" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" height="60" alt="mlflow logo" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" height="50" alt="mlflow logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="60" alt="scikit-learn logo" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="60" alt="docker logo" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="50" alt="docker logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="60" alt="jira logo" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="50" alt="jira logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="60" alt="power bi logo" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" alt="power bi logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="60" alt="nginx logo" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="50" alt="nginx logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" height="60" alt="gunicorn logo" />
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" height="50" alt="gunicorn logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="60" alt="jenkins logo" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="50" alt="jenkins logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="60" alt="keras logo" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="50" alt="keras logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" height="60" alt="sentry logo" />
+  <img src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" height="50" alt="sentry logo" />
 </div>
 
 ###
@@ -114,10 +114,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phenox27&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3"  height="45%" width="45%" alt="streak graph" /><br>
-  <img src="https://github-readme-stats.shion.dev/api?username=phenox27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"  height="35%" width="35%" alt="github stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phenox27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="35%" width="35%" alt="top langs" /><br>
-  <img src="https://raw.githubusercontent.com/phenox27/phenox27/activity-graph-output/activity-graph.svg" height="100%" width="75%" alt="activity-graph graph" />
+  <img src ="https://streak-stats.demolab.com/?user=phenox27&theme=dark&hide_border=true" /> <br>
+  <img src = "https://github-readme-stats.shion.dev/api?username=phenox27&theme=dark&hide_border=true&include_all_commits=false&count_private=false" hrighy ="900%" width ="38%"/>
+  <img src = "https://github-readme-stats.shion.dev/api/top-langs/?username=phenox27&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="50%"/><br>
+  <img src="https://raw.githubusercontent.com/phenox27/phenox27/activity-graph-output/activity-graph.svg" height="90%" width="75%" alt="activity-graph graph" />
 </div>
 <br>
 
