@@ -114,10 +114,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phenox27&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /><br>
-  <img src="https://github-readme-stats.shion.dev/api?username=phenox27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phenox27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="top langs" /><br>
-  <img src="https://raw.githubusercontent.com/phenox27/phenox27/activity-graph-output/activity-graph.svg" height="150" alt="activity-graph graph" />
+  <img src="https://streak-stats.demolab.com?user=phenox27&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3"  height="35%" width="35%" alt="streak graph" /><br>
+  <img src="https://github-readme-stats.shion.dev/api?username=phenox27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"  height="35%" width="35%" alt="github stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=phenox27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="35%" width="35%" alt="top langs" /><br>
+  <img src="https://raw.githubusercontent.com/phenox27/phenox27/activity-graph-output/activity-graph.svg" height="100%" width="75%" alt="activity-graph graph" />
 </div>
 <br>
 
